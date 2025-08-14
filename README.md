@@ -25,29 +25,25 @@ Currently pursuing my *Master's in Computer Science for Aerospace* at **Universi
 ---
 
 ### 🧰 Tech Stack
-
-#### 💻 Languages & Frameworks
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,java,kotlin,flutter,cs,cpp&theme=dark" />
 </p>
 
-#### 📊 Data Science & AI
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" />
 </p>
 
-#### 🛠 DevOps & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,firebase&theme=dark" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/UML_logo.svg" height="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshchimnani&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshchimnani&theme=radical" />
@@ -59,9 +55,9 @@ Currently pursuing my *Master's in Computer Science for Aerospace* at **Universi
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshchimnani&bg_color=1a1b27&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github.com/adarshchimnani/adarshchimnani/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -74,7 +70,7 @@ Currently pursuing my *Master's in Computer Science for Aerospace* at **Universi
 ---
 
 ### 📫 Let’s Connect
-<p align="left">
+<p align="center">
   <a href="mailto:adarsh.chimnani@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/adarshchimnani"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://adarshchimnani.github.io"><img src="https://skillicons.dev/icons?i=github" /></a>
