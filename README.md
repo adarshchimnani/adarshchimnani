@@ -55,9 +55,12 @@ Currently pursuing my *Master's in Computer Science for Aerospace* at **Universi
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/adarshchimnani/adarshchimnani/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adarshchimnani/adarshchimnani/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/adarshchimnani/adarshchimnani/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
