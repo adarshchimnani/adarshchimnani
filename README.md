@@ -1,8 +1,6 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Adarsh 👋</h1>
-<p align="center">
-  Web Developer • MERN Stack • Builder of useful things
-</p>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Adarsh Chimnani</h1>
+<h3 align="center">Full-Stack Developer | MERN | AI & ML Enthusiast | Open to Work</h3>
 
 <p align="center">
   <a href="mailto:adarsh.chimnani@gmail.com">Email</a> •
@@ -12,70 +10,94 @@
 
 ---
 
-### 🚀 About me
-- I’m a full-stack developer who enjoys turning ideas into fast, reliable web apps.  
-- I collaborate best on *MERN* projects and developer tooling.  
-- Ask me about entrepreneurship, product thinking, and scoping MVPs.
+### 🚀 About Me
+I’m a passionate *Full-Stack Web Developer* and *Computer Science postgrad* with a strong foundation in *AI/ML, **data science, and **software engineering*.  
+Currently pursuing my *Master's in Computer Science for Aerospace* at Université Toulouse III – Paul Sabatier, I thrive at the intersection of *web technologies, AI research, and problem-solving*.
 
-### 🟢 Open to roles
-*Frontend (React/MUI), Backend (Node/Express), Full-Stack (MERN), or Developer-Writer/DevRel.*  
-I’m currently looking for opportunities — happy to chat!
+- 🟢 *Open to*: Full-Stack, Backend, AI/ML roles, Developer Relations, and Technical Writing.  
+- 🌍 Based in *Toulouse, France* — available for global remote or hybrid work.  
+- 🏆 Multiple awards in *game development* and *robotics innovation*.
 
 ---
 
-### 🧰 Tech stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=plastic&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+### 🧰 Skills & Tools
+#### 💻 Programming & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin)
+![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
+
+#### 📊 Data Science & AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
+
+#### 🛠 DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![UML](https://img.shields.io/badge/-UML-333?style=flat&logo=uml)
 
 ---
 
 ### 🎓 Education
-- *MSc in Computer Science*, Université Toulouse III – Paul Sabatier (2023–2025)  
-- *BSc in Computer Science*, Sukkur IBA University (2018–2022)  
-- Exchange Semester — Sapienza University, Rome (2021)
+- *Master's in Computer Science for Aerospace* — Université Toulouse III – Paul Sabatier (2024–2026):contentReference[oaicite:2]{index=2}  
+- *Exchange Semester, Computer Science* — Sapienza University, Rome (2021):contentReference[oaicite:3]{index=3}  
+- *BSc in Computer Science* — Sukkur IBA University (2018–2022):contentReference[oaicite:4]{index=4}  
 
 ---
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshchimnani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=githubpages&logoColor=white)](https://adarshchimnani.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=plastic)](mailto:adarsh.chimnani@gmail.com)
+### 💼 Experience
+- *Software Developer Intern* — IRIT-Lab, Toulouse (2025):contentReference[oaicite:5]{index=5}  
+  Developed decision-support tools using *Qt* and *INGESCAPE* for industrial workload scheduling.
+- *Full-Stack Web Developer Intern* — Aparent.ly, Copenhagen (2024):contentReference[oaicite:6]{index=6}  
+  Built dynamic web apps using *React.js, Node.js, Express.js*.
+- *I.T Service Provider* — ESP Services, Toulouse (2024–Present):contentReference[oaicite:7]{index=7}  
+  Provided IT support for Nike, Five Guys, Accenture.
 
 ---
 
-### 📊 GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=adarshchimnani&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adarshchimnani&theme=slateorange&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshchimnani&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=adarshchimnani&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍ Random dev quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Optional: Top Contributed Repo & visit counter -->
-<!--
-![](https://github-contributor-stats.vercel.app/api?username=adarshchimnani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=adarshchimnani&icon=0&color=2)](https://visitcount.itsvg.in)
--->
+### 🏆 Awards
+- 🥇 Winner — Games4Change Game Design Competition (Mindstorm Studios, 2023):contentReference[oaicite:8]{index=8}  
+- 🥉 3rd Place — IEEE R10 Robotics Innovation Competition (Thailand, 2022):contentReference[oaicite:9]{index=9}  
+- 🥇 1st Place — RookieGameJam (Mindstorm Studios, 2020):contentReference[oaicite:10]{index=10}  
 
 ---
 
-### 📫 Contact
-- *Email:* adarsh.chimnani@gmail.com  
-- *LinkedIn:* https://www.linkedin.com/in/adarshchimnani  
-- *Portfolio:* https://adarshchimnani.github.io
+### 📂 Featured Projects
+- *Preemptive Earliest Deadline First Scheduling (EDF)* — Optimized scheduling with *Batsim*:contentReference[oaicite:11]{index=11}  
+- *Cotton Crop Disease Detection* — CNN achieving *89.6% accuracy*:contentReference[oaicite:12]{index=12}  
+- *Facial Expressions Recognition* — Real-time CNN classifier using FER-2013:contentReference[oaicite:13]{index=13}  
+- *E-commerce MERN App* — Full-featured online store with JWT Auth:contentReference[oaicite:14]{index=14}  
+
+---
+
+### 📜 Certifications
+- *Deep Learning Specialization* — DeepLearning.AI (95%):contentReference[oaicite:15]{index=15}  
+- *NLP Specialization* — DeepLearning.AI (97%):contentReference[oaicite:16]{index=16}  
+- *Mathematics for Machine Learning* — DeepLearning.AI (96%):contentReference[oaicite:17]{index=17}  
+- *TensorFlow for AI* — DeepLearning.AI (99%):contentReference[oaicite:18]{index=18}  
+- *Crash Course in Data Science* — Johns Hopkins (100%):contentReference[oaicite:19]{index=19}  
+
+---
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=adarshchimnani&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=adarshchimnani&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshchimnani&layout=compact&theme=radical)
+
+---
+
+### 📫 Let’s Connect
+- 📧 *Email:* [adarsh.chimnani@gmail.com](mailto:adarsh.chimnani@gmail.com)  
+- 💼 *LinkedIn:* [linkedin.com/in/adarshchimnani](https://www.linkedin.com/in/adarshchimnani)  
+- 🌐 *Portfolio:* [adarshchimnani.github.io](https://adarshchimnani.github.io)
